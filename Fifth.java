@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SwapNumbers {
+public class Fifth {
     public static void swapWithVar(int a, int b) {
         int temp;
 

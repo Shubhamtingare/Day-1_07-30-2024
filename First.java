@@ -1,4 +1,4 @@
-public class Rectangle {
+public class First {
 
     public static int calArea(int len, int bre) {
         return len * bre;
