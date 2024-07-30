@@ -12,6 +12,7 @@ public class Eighth {
         int firstDigit = num;
 
         return secondLast + firstDigit;
+
     }
 
     public static void main(String[] args) {
